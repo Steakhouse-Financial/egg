@@ -17,11 +17,9 @@
 | **Which of the following GOOSE goals is your proposal advancing?** 	|                                                                                                     	|             	|
 | **Organization description**                                       	| _Qualifications, experience, major achievements_                                                    	|             	|
 | **Proposed scope of work**                                         	| _What will you do? Who will do it?_                                                                 	|             	|
-| **Purpose**                                                        	| _How will it further Lido's mission to decentralize Ethereum? How will it aid the Lido ecosystem?_  	|             	|
 | **Objectives**                                                     	| _What does success look like? What are the deliverables and timelines?_                             	|             	|
 | **Total Budget Request**                                           	| _Amounts, categories of spend_                                                                      	|             	|
 | **Best-before date**                                               	| _Maximum end-date for the request_                                                                  	|             	|
-| **Community call dates**                                           	| _Committed dates for community calls in a public shared calendar_                                    	|             	|
 
 ## Other Data Points
 
